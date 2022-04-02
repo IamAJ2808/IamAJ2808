@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/iamaj2808)
+- 📫 Reach me at [**LinkedIn**](https://www.linkedin.com/in/iamaj2808)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iamaj2808)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/iamaj2808)
 
 - ⚡ Fun fact **I love to play video Games🎮 and watching movies🎬**
 
