@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **Competitive programming**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/IamAJ2808)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/IamAravindKumar)
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 Reach me at [**LinkedIn**](https://www.linkedin.com/in/iamaj2808)
+- 📫 Reach me at [**LinkedIn**](https://www.linkedin.com/in/IamAravindKumar)
 
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/iamaj2808)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/IamAravindKumar)
 
 - ⚡ Fun fact **I love to play video Games🎮 and watching movies🎬**
 
