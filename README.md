@@ -51,10 +51,10 @@
  <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;  -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamaj2808&show_icons=true&locale=en&layout=compact" alt="iamaj2808" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamAravindKumar&show_icons=true&locale=en&layout=compact" alt="IamAravindKumar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaj2808&show_icons=true&locale=en" alt="iamaj2808" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IamAravindKumar&show_icons=true&locale=en" alt="IamAravindKumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamaj2808&" alt="iamaj2808" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamAravindKumar&" alt="IamAravindKumar" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamaj2808" alt="iamaj2808" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IamAravindKumar8" alt="IamAravindKumar" /></a> </p>
