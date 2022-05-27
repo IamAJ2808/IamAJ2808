@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Aravind Kumar J</h1>
 <h3 align="center">I am a passionate JavaScript Full Stack Developer👨🏻‍💻 from India.</h3>
-<img align="right" alt="Coding" width="440" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif"/>
+<!-- <img align="right" alt="Coding" width="440" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif"/>  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaj2808&label=Profile%20views&color=0e75b6&style=flat" alt="iamaj2808" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iamaj2808&label=Profile%20views&color=0e75b6&style=flat" alt="iamaj2808" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aravind2808" target="blank"><img src="https://img.shields.io/twitter/follow/aravind2808?logo=twitter&style=for-the-badge" alt="aravind2808" /></a> </p>
+<p align="right"> <a href="https://twitter.com/aravind2808" target="blank"><img src="https://img.shields.io/twitter/follow/aravind2808?logo=twitter&style=for-the-badge" alt="aravind2808" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **System Design**
 
